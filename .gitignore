@@ -1,0 +1,3 @@
+# docs はユーザーガイドのみ公開 (内部仕様書は dev repo 側で管理)
+docs/*
+!docs/coop_user_guide.md

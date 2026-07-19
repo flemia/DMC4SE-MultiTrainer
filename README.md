@@ -3,6 +3,8 @@
 Devil May Cry 4 Special Edition (DMC4SE) 用の in-game trainer。 ImGui ベースの UI で各機能を切替できます。
 
 > バージョンごとの機能一覧 / 変更点 は **[Releases](../../releases)** ページの description を参照してください。
+>
+> 🎮 **Co-op (2 人プレイ) の使い方は [Co-op ユーザーガイド](docs/coop_user_guide.md) を参照してください。**
 
 <br/>
 活動の応援していただけると嬉しいです。
